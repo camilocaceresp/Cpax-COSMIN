@@ -1,0 +1,755 @@
+{
+  "name": "Measurement properties",
+  "children": [
+    {
+      "name": "Validity",
+      "children": [
+        {
+          "name": "Content validity",
+          "children": [
+            {
+              "name": "Face validity",
+              "children": [
+                {
+                  "name": "Astrup et al. (2020)",
+                  "value": 1,
+                  "country": "Denmark",
+                  "study_design": "Cross-cultural adaptation with pre-test",
+                  "sample_size_n": "30"
+                },
+                {
+                  "name": "Corner et al. (2013)",
+                  "value": 1,
+                  "country": "United Kingdom",
+                  "study_design": "Prospective cohort study",
+                  "sample_size_n": "33"
+                },
+                {
+                  "name": "Corner et al. (2016)",
+                  "value": 1,
+                  "country": "United Kingdom",
+                  "study_design": "Prospective educational study (survey)",
+                  "sample_size_n": null
+                },
+                {
+                  "name": "Eggmann et al. (2022)",
+                  "value": 1,
+                  "country": "Switzerland",
+                  "study_design": "Forward-backward translation + expert round table discussion.     Prospectve, single-centre, longitudinal, clinimetric study",
+                  "sample_size_n": "58"
+                },
+                {
+                  "name": "Eggmann et al. (2025)",
+                  "value": 1,
+                  "country": "Switzerland",
+                  "study_design": "prospective, longitudinal, clinimetric study",
+                  "sample_size_n": "61"
+                },
+                {
+                  "name": "Ferguson et al. (2024)",
+                  "value": 1,
+                  "country": "Australia",
+                  "study_design": "Modified Delphi with subsequent prospective cohort study",
+                  "sample_size_n": "54"
+                },
+                {
+                  "name": "Ferreira et al. (2024)",
+                  "value": 1,
+                  "country": "Portugal",
+                  "study_design": "Cross-cultural adaptation and prospective observational study",
+                  "sample_size_n": "91"
+                },
+                {
+                  "name": "Gonzalez et al. (2017)",
+                  "value": 1,
+                  "country": "Chile",
+                  "study_design": "Cross-cultural adaptation study",
+                  "sample_size_n": null
+                },
+                {
+                  "name": "Holdar et al. (2021)",
+                  "value": 1,
+                  "country": "Sweden",
+                  "study_design": "Cross-cultural adaptation and prospective observational study",
+                  "sample_size_n": "50"
+                },
+                {
+                  "name": "Schanke et al. (2023)",
+                  "value": 1,
+                  "country": "Norway",
+                  "study_design": "Cross-cultural adaptation and prospective observational study",
+                  "sample_size_n": "57"
+                },
+                {
+                  "name": "Zhang et al. (2021)",
+                  "value": 1,
+                  "country": "China",
+                  "study_design": "Cross-cultural adaptation, cross-­ sectional observational study",
+                  "sample_size_n": "200"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Construct validity",
+          "children": [
+            {
+              "name": "Cross-cultural validity",
+              "children": [
+                {
+                  "name": "Astrup et al. (2020)",
+                  "value": 1,
+                  "country": "Denmark",
+                  "study_design": "Cross-cultural adaptation with pre-test",
+                  "sample_size_n": "30"
+                },
+                {
+                  "name": "Eggmann et al. (2022)",
+                  "value": 1,
+                  "country": "Switzerland",
+                  "study_design": "Forward-backward translation + expert round table discussion.     Prospectve, single-centre, longitudinal, clinimetric study",
+                  "sample_size_n": "58"
+                },
+                {
+                  "name": "Ferreira et al. (2024)",
+                  "value": 1,
+                  "country": "Portugal",
+                  "study_design": "Cross-cultural adaptation and prospective observational study",
+                  "sample_size_n": "91"
+                },
+                {
+                  "name": "Gonzalez et al. (2017)",
+                  "value": 1,
+                  "country": "Chile",
+                  "study_design": "Cross-cultural adaptation study",
+                  "sample_size_n": null
+                },
+                {
+                  "name": "Holdar et al. (2021)",
+                  "value": 1,
+                  "country": "Sweden",
+                  "study_design": "Cross-cultural adaptation and prospective observational study",
+                  "sample_size_n": "50"
+                },
+                {
+                  "name": "Schanke et al. (2023)",
+                  "value": 1,
+                  "country": "Norway",
+                  "study_design": "Cross-cultural adaptation and prospective observational study",
+                  "sample_size_n": "57"
+                },
+                {
+                  "name": "Zhang et al. (2021)",
+                  "value": 1,
+                  "country": "China",
+                  "study_design": "Cross-cultural adaptation, cross-­ sectional observational study",
+                  "sample_size_n": "200"
+                }
+              ]
+            },
+            {
+              "name": "Hypotheses testing",
+              "children": [
+                {
+                  "name": "Corner et al. (2013)",
+                  "value": 1,
+                  "country": "United Kingdom",
+                  "study_design": "Prospective cohort study",
+                  "sample_size_n": "33"
+                },
+                {
+                  "name": "Corner et al. (2014)",
+                  "value": 1,
+                  "country": "United Kingdom",
+                  "study_design": "Observentional, qualitative improvement study",
+                  "sample_size_n": "499"
+                },
+                {
+                  "name": "Da Silva et al. (2022)",
+                  "value": 1,
+                  "country": "Brazil",
+                  "study_design": "Prospective, longitudinal cohort study",
+                  "sample_size_n": "41"
+                },
+                {
+                  "name": "Eggmann et al. (2022)",
+                  "value": 1,
+                  "country": "Switzerland",
+                  "study_design": "Forward-backward translation + expert round table discussion.     Prospectve, single-centre, longitudinal, clinimetric study",
+                  "sample_size_n": "58"
+                },
+                {
+                  "name": "Eggmann et al. (2023)",
+                  "value": 1,
+                  "country": "Switzerland",
+                  "study_design": "Prospective clinimetric study",
+                  "sample_size_n": "58"
+                },
+                {
+                  "name": "Estrup et al. (2019)",
+                  "value": 1,
+                  "country": "Denmark",
+                  "study_design": "Prospective, longitudinal, cohort study",
+                  "sample_size_n": "44"
+                },
+                {
+                  "name": "Fourie et al. (2024)",
+                  "value": 1,
+                  "country": "South Africa",
+                  "study_design": "Prospective, longitudinal cohort study",
+                  "sample_size_n": "69"
+                },
+                {
+                  "name": "Giray et al. (2023)",
+                  "value": 1,
+                  "country": "Turkey",
+                  "study_design": "Prospective, cross-sectional cohort study",
+                  "sample_size_n": "16"
+                },
+                {
+                  "name": "Liu et al. (2025)",
+                  "value": 1,
+                  "country": "China",
+                  "study_design": "Prospective observational study",
+                  "sample_size_n": "114"
+                },
+                {
+                  "name": "Rocha et al. (2023)",
+                  "value": 1,
+                  "country": "Brazil",
+                  "study_design": "Prospective cohort study",
+                  "sample_size_n": "85"
+                },
+                {
+                  "name": "Whelan et al. (2018)",
+                  "value": 1,
+                  "country": "South Africa",
+                  "study_design": "Quasi-experimental study",
+                  "sample_size_n": "26"
+                },
+                {
+                  "name": "Zhang et al. (2021)",
+                  "value": 1,
+                  "country": "China",
+                  "study_design": "Cross-cultural adaptation, cross-­ sectional observational study",
+                  "sample_size_n": "200"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Criterion validity",
+          "children": [
+            {
+              "name": "Criterion validity",
+              "children": [
+                {
+                  "name": "Bharath et al. (2025)",
+                  "value": 1,
+                  "country": "South Africa",
+                  "study_design": "Prospective cohort study",
+                  "sample_size_n": "86"
+                },
+                {
+                  "name": "Eggmann et al. (2023)",
+                  "value": 1,
+                  "country": "Switzerland",
+                  "study_design": "Prospective clinimetric study",
+                  "sample_size_n": "58"
+                },
+                {
+                  "name": "Giray et al. (2023)",
+                  "value": 1,
+                  "country": "Turkey",
+                  "study_design": "Prospective, cross-sectional cohort study",
+                  "sample_size_n": "16"
+                },
+                {
+                  "name": "Wu et al. (2025)",
+                  "value": 1,
+                  "country": "China",
+                  "study_design": "Prospective cross-sectional study",
+                  "sample_size_n": "476 (ICU discharge)"
+                },
+                {
+                  "name": "Zhang et al. (2021)",
+                  "value": 1,
+                  "country": "China",
+                  "study_design": "Cross-cultural adaptation, cross-­ sectional observational study",
+                  "sample_size_n": "200"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reliability",
+      "children": [
+        {
+          "name": "Reliability",
+          "children": [
+            {
+              "name": "Astrup et al. (2023)",
+              "value": 1,
+              "country": "Denmark",
+              "study_design": "Prospective cohort study",
+              "sample_size_n": "66"
+            },
+            {
+              "name": "Bharath et al. (2025)",
+              "value": 1,
+              "country": "South Africa",
+              "study_design": "Prospective cohort study",
+              "sample_size_n": "86"
+            },
+            {
+              "name": "Corner et al. (2013)",
+              "value": 1,
+              "country": "United Kingdom",
+              "study_design": "Prospective cohort study",
+              "sample_size_n": "33"
+            },
+            {
+              "name": "Corner et al. (2016)",
+              "value": 1,
+              "country": "United Kingdom",
+              "study_design": "Prospective educational study (survey)",
+              "sample_size_n": null
+            },
+            {
+              "name": "Eggmann et al. (2022)",
+              "value": 1,
+              "country": "Switzerland",
+              "study_design": "Forward-backward translation + expert round table discussion.     Prospectve, single-centre, longitudinal, clinimetric study",
+              "sample_size_n": "58"
+            },
+            {
+              "name": "Eggmann et al. (2025)",
+              "value": 1,
+              "country": "Switzerland",
+              "study_design": "prospective, longitudinal, clinimetric study",
+              "sample_size_n": "61"
+            },
+            {
+              "name": "Ferguson et al. (2024)",
+              "value": 1,
+              "country": "Australia",
+              "study_design": "Modified Delphi with subsequent prospective cohort study",
+              "sample_size_n": "54"
+            },
+            {
+              "name": "Ferreira et al. (2024)",
+              "value": 1,
+              "country": "Portugal",
+              "study_design": "Cross-cultural adaptation and prospective observational study",
+              "sample_size_n": "91"
+            },
+            {
+              "name": "Giray et al. (2023)",
+              "value": 1,
+              "country": "Turkey",
+              "study_design": "Prospective, cross-sectional cohort study",
+              "sample_size_n": "16"
+            },
+            {
+              "name": "Holdar et al. (2021)",
+              "value": 1,
+              "country": "Sweden",
+              "study_design": "Cross-cultural adaptation and prospective observational study",
+              "sample_size_n": "50"
+            },
+            {
+              "name": "Schanke et al. (2023)",
+              "value": 1,
+              "country": "Norway",
+              "study_design": "Cross-cultural adaptation and prospective observational study",
+              "sample_size_n": "57"
+            },
+            {
+              "name": "Whelan et al. (2018)",
+              "value": 1,
+              "country": "South Africa",
+              "study_design": "Quasi-experimental study",
+              "sample_size_n": "26"
+            },
+            {
+              "name": "Zhang et al. (2021)",
+              "value": 1,
+              "country": "China",
+              "study_design": "Cross-cultural adaptation, cross-­ sectional observational study",
+              "sample_size_n": "200"
+            }
+          ]
+        },
+        {
+          "name": "Measurement error",
+          "children": [
+            {
+              "name": "Astrup et al. (2023)",
+              "value": 1,
+              "country": "Denmark",
+              "study_design": "Prospective cohort study",
+              "sample_size_n": "66"
+            },
+            {
+              "name": "Corner et al. (2015)",
+              "value": 1,
+              "country": "United Kingdom",
+              "study_design": "Observentional study",
+              "sample_size_n": "30"
+            },
+            {
+              "name": "Eggmann et al. (2022)",
+              "value": 1,
+              "country": "Switzerland",
+              "study_design": "Forward-backward translation + expert round table discussion.     Prospectve, single-centre, longitudinal, clinimetric study",
+              "sample_size_n": "58"
+            },
+            {
+              "name": "Eggmann et al. (2025)",
+              "value": 1,
+              "country": "Switzerland",
+              "study_design": "prospective, longitudinal, clinimetric study",
+              "sample_size_n": "61"
+            },
+            {
+              "name": "Ferreira et al. (2024)",
+              "value": 1,
+              "country": "Portugal",
+              "study_design": "Cross-cultural adaptation and prospective observational study",
+              "sample_size_n": "91"
+            },
+            {
+              "name": "Holdar et al. (2021)",
+              "value": 1,
+              "country": "Sweden",
+              "study_design": "Cross-cultural adaptation and prospective observational study",
+              "sample_size_n": "50"
+            },
+            {
+              "name": "Liu et al. (2025)",
+              "value": 1,
+              "country": "China",
+              "study_design": "Prospective observational study",
+              "sample_size_n": "114"
+            },
+            {
+              "name": "Schanke et al. (2023)",
+              "value": 1,
+              "country": "Norway",
+              "study_design": "Cross-cultural adaptation and prospective observational study",
+              "sample_size_n": "57"
+            }
+          ]
+        },
+        {
+          "name": "Internal consistency",
+          "children": [
+            {
+              "name": "Corner et al. (2013)",
+              "value": 1,
+              "country": "United Kingdom",
+              "study_design": "Prospective cohort study",
+              "sample_size_n": "33"
+            },
+            {
+              "name": "Eggmann et al. (2022)",
+              "value": 1,
+              "country": "Switzerland",
+              "study_design": "Forward-backward translation + expert round table discussion.     Prospectve, single-centre, longitudinal, clinimetric study",
+              "sample_size_n": "58"
+            },
+            {
+              "name": "Ferreira et al. (2024)",
+              "value": 1,
+              "country": "Portugal",
+              "study_design": "Cross-cultural adaptation and prospective observational study",
+              "sample_size_n": "91"
+            },
+            {
+              "name": "Zhang et al. (2021)",
+              "value": 1,
+              "country": "China",
+              "study_design": "Cross-cultural adaptation, cross-­ sectional observational study",
+              "sample_size_n": "200"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Responsiveness",
+      "children": [
+        {
+          "name": "Responsiveness",
+          "children": [
+            {
+              "name": "Astrup et al. (2023)",
+              "value": 1,
+              "country": "Denmark",
+              "study_design": "Prospective cohort study",
+              "sample_size_n": "66"
+            },
+            {
+              "name": "Corner et al. (2015)",
+              "value": 1,
+              "country": "United Kingdom",
+              "study_design": "Observentional study",
+              "sample_size_n": "30"
+            },
+            {
+              "name": "Da Silva et al. (2022)",
+              "value": 1,
+              "country": "Brazil",
+              "study_design": "Prospective, longitudinal cohort study",
+              "sample_size_n": "41"
+            },
+            {
+              "name": "Estrup et al. (2019)",
+              "value": 1,
+              "country": "Denmark",
+              "study_design": "Prospective, longitudinal, cohort study",
+              "sample_size_n": "44"
+            },
+            {
+              "name": "Fourie et al. (2024)",
+              "value": 1,
+              "country": "South Africa",
+              "study_design": "Prospective, longitudinal cohort study",
+              "sample_size_n": "69"
+            },
+            {
+              "name": "Liu et al. (2025)",
+              "value": 1,
+              "country": "China",
+              "study_design": "Prospective observational study",
+              "sample_size_n": "114"
+            },
+            {
+              "name": "Rocha et al. (2023)",
+              "value": 1,
+              "country": "Brazil",
+              "study_design": "Prospective cohort study",
+              "sample_size_n": "85"
+            },
+            {
+              "name": "Schanke et al. (2023)",
+              "value": 1,
+              "country": "Norway",
+              "study_design": "Cross-cultural adaptation and prospective observational study",
+              "sample_size_n": "57"
+            },
+            {
+              "name": "Tjale et al. (2024)",
+              "value": 1,
+              "country": "South Africa",
+              "study_design": "Prospective observational cohort study",
+              "sample_size_n": "65"
+            },
+            {
+              "name": "Whelan et al. (2018)",
+              "value": 1,
+              "country": "South Africa",
+              "study_design": "Quasi-experimental study",
+              "sample_size_n": "26"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Interpretability",
+      "children": [
+        {
+          "name": "Interpretability",
+          "children": [
+            {
+              "name": "Astrup et al. (2023)",
+              "value": 1,
+              "country": "Denmark",
+              "study_design": "Prospective cohort study",
+              "sample_size_n": "66"
+            },
+            {
+              "name": "Corner et al. (2014)",
+              "value": 1,
+              "country": "United Kingdom",
+              "study_design": "Observentional, qualitative improvement study",
+              "sample_size_n": "499"
+            },
+            {
+              "name": "Corner et al. (2015)",
+              "value": 1,
+              "country": "United Kingdom",
+              "study_design": "Observentional study",
+              "sample_size_n": "30"
+            },
+            {
+              "name": "Da Silva et al. (2022)",
+              "value": 1,
+              "country": "Brazil",
+              "study_design": "Prospective, longitudinal cohort study",
+              "sample_size_n": "41"
+            },
+            {
+              "name": "Eggmann et al. (2022)",
+              "value": 1,
+              "country": "Switzerland",
+              "study_design": "Forward-backward translation + expert round table discussion.     Prospectve, single-centre, longitudinal, clinimetric study",
+              "sample_size_n": "58"
+            },
+            {
+              "name": "Eggmann et al. (2023)",
+              "value": 1,
+              "country": "Switzerland",
+              "study_design": "Prospective clinimetric study",
+              "sample_size_n": "58"
+            },
+            {
+              "name": "Eggmann et al. (2025)",
+              "value": 1,
+              "country": "Switzerland",
+              "study_design": "prospective, longitudinal, clinimetric study",
+              "sample_size_n": "61"
+            },
+            {
+              "name": "Estrup et al. (2019)",
+              "value": 1,
+              "country": "Denmark",
+              "study_design": "Prospective, longitudinal, cohort study",
+              "sample_size_n": "44"
+            },
+            {
+              "name": "Fourie et al. (2024)",
+              "value": 1,
+              "country": "South Africa",
+              "study_design": "Prospective, longitudinal cohort study",
+              "sample_size_n": "69"
+            },
+            {
+              "name": "Giray et al. (2023)",
+              "value": 1,
+              "country": "Turkey",
+              "study_design": "Prospective, cross-sectional cohort study",
+              "sample_size_n": "16"
+            },
+            {
+              "name": "Liu et al. (2025)",
+              "value": 1,
+              "country": "China",
+              "study_design": "Prospective observational study",
+              "sample_size_n": "114"
+            },
+            {
+              "name": "Rocha et al. (2023)",
+              "value": 1,
+              "country": "Brazil",
+              "study_design": "Prospective cohort study",
+              "sample_size_n": "85"
+            },
+            {
+              "name": "Schanke et al. (2023)",
+              "value": 1,
+              "country": "Norway",
+              "study_design": "Cross-cultural adaptation and prospective observational study",
+              "sample_size_n": "57"
+            },
+            {
+              "name": "Whelan et al. (2018)",
+              "value": 1,
+              "country": "South Africa",
+              "study_design": "Quasi-experimental study",
+              "sample_size_n": "26"
+            },
+            {
+              "name": "Wu et al. (2025)",
+              "value": 1,
+              "country": "China",
+              "study_design": "Prospective cross-sectional study",
+              "sample_size_n": "476 (ICU discharge)"
+            },
+            {
+              "name": "Zhang et al. (2021)",
+              "value": 1,
+              "country": "China",
+              "study_design": "Cross-cultural adaptation, cross-­ sectional observational study",
+              "sample_size_n": "200"
+            }
+          ]
+        },
+        {
+          "name": "Feasibility",
+          "children": [
+            {
+              "name": "Corner et al. (2014)",
+              "value": 1,
+              "country": "United Kingdom",
+              "study_design": "Observentional, qualitative improvement study",
+              "sample_size_n": "499"
+            },
+            {
+              "name": "Corner et al. (2016)",
+              "value": 1,
+              "country": "United Kingdom",
+              "study_design": "Prospective educational study (survey)",
+              "sample_size_n": null
+            },
+            {
+              "name": "Eggmann et al. (2025)",
+              "value": 1,
+              "country": "Switzerland",
+              "study_design": "prospective, longitudinal, clinimetric study",
+              "sample_size_n": "61"
+            },
+            {
+              "name": "Ferguson et al. (2024)",
+              "value": 1,
+              "country": "Australia",
+              "study_design": "Modified Delphi with subsequent prospective cohort study",
+              "sample_size_n": "54"
+            },
+            {
+              "name": "Giray et al. (2023)",
+              "value": 1,
+              "country": "Turkey",
+              "study_design": "Prospective, cross-sectional cohort study",
+              "sample_size_n": "16"
+            },
+            {
+              "name": "Gonzalez et al. (2017)",
+              "value": 1,
+              "country": "Chile",
+              "study_design": "Cross-cultural adaptation study",
+              "sample_size_n": null
+            },
+            {
+              "name": "Holdar et al. (2021)",
+              "value": 1,
+              "country": "Sweden",
+              "study_design": "Cross-cultural adaptation and prospective observational study",
+              "sample_size_n": "50"
+            },
+            {
+              "name": "Schanke et al. (2023)",
+              "value": 1,
+              "country": "Norway",
+              "study_design": "Cross-cultural adaptation and prospective observational study",
+              "sample_size_n": "57"
+            },
+            {
+              "name": "Tjale et al. (2024)",
+              "value": 1,
+              "country": "South Africa",
+              "study_design": "Prospective observational cohort study",
+              "sample_size_n": "65"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
